@@ -1,0 +1,48 @@
+/* media */
+
+
+/* smart phone and taplet */
+
+@media (max-width: 767px)
+{
+
+    .subb .form-control {
+        
+        margin: 20px auto;
+        width: 400px;
+    }
+    
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height: none
+    }
+    
+    .smal {
+        
+        text-align: center
+    }
+}
+
+
+/* small screen */
+
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+
+}
+
+/*  medium screen */
+
+@media (min-width: 992px) and (max-width: 1199px)
+{
+
+}
+
+/*  large screen */
+
+@media (min-width: 1200px)
+{
+
+}

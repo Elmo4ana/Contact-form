@@ -1,0 +1,170 @@
+/* start */
+
+/* end */
+
+
+/* start form */
+
+
+@font-face {
+    
+    font-family: 'mainfont';
+    src: url(../fonts/Days Later.ttf);
+}
+
+@font-face {
+  font-family: 'Changa';
+  src: url(../fonts/pI_yG9UUS9eQ4dbGOEVJY_esZW2xOQ-xsNqO47m55DA.woff2);
+
+}
+
+body {
+    
+    background-color: #343232;
+    font-family: 'Changa' , 'sans-serif';
+    color: #FFF;
+}
+
+.alert {
+    
+    margin-bottom: 10px;
+    
+}
+
+h1 {
+    
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: -3px;
+    color: #e95e28;
+    
+}
+
+.alert-danger {
+    
+    color: #ffffff;
+    background-color: #f63333;
+    border-color: #ebccd1;
+}
+
+.con-form {
+    
+    max-width: 700px;
+    margin: 20px auto
+}
+
+.form-control {
+    
+    background-color: #ebe7e7;
+    font-weight: bold
+}
+
+.con-form .form-group {
+    
+    margin-bottom: 0;
+    position: relative
+}
+
+.con-form input, .con-form textarea {
+    
+    margin-bottom: 10px
+}
+
+.con-form textarea {
+    
+    height: 180px !important
+}
+
+.con-form input:not([type='submit']) + i {
+    
+    height: 0;
+    float: right;
+    position: relative;
+    top: -34px;
+    left: -5px;
+    color: #999;
+    
+}
+
+.con-form input[type='submit']:hover {
+    
+        background-color: #c42121;
+        border-color: #131312;
+}
+
+.con-form .as {
+    
+    height: 0;
+    font-size: 25px;
+    color: #bc0505;
+    position: absolute;
+    right: 95%;
+    top: 6px;
+}
+
+.con-form input:not([type='submit']) {
+    
+    padding-right: 27px;
+}
+
+.con-form input {
+    
+    padding-left: 33px
+}
+
+.con-form .send-icon {
+
+    display: block;
+    position: relative;
+    top: -34px;
+    right: 53px;
+    color: #fff;
+}
+
+.con-form .cus{
+    
+    padding:5px 10px;
+    display: none
+    
+}
+
+.btn-success {
+    
+    color: #fff;
+    background-color: #e95e28;
+    border-color: #e95e28;
+}
+/* end from */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
